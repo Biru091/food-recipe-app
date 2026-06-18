@@ -47,6 +47,4 @@ This is a React-based Food Recipe application that allows users to search and ex
 
 ---
 
-## License
 
-This project is open-source and free to use for learning purposes.
